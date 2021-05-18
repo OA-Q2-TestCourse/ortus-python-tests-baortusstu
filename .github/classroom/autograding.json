@@ -1,47 +1,7 @@
 {
   "tests": [
     {
-      "name": "test_solution01_2pt.py",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest -v",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 2
-    },
-    {
-      "name": "test_solution02_2pt.py",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest -v",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 2
-    },
-    {
-      "name": "test_solution03_2pt.py",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest -v",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 2
-    },
-    {
-      "name": "test_solution04_2pt.py",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest -v",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 2
-    },
-    {
-      "name": "test_solution05_2pt.py",
+      "name": "tests",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest -v",
       "input": "",
