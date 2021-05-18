@@ -16,7 +16,7 @@ class Developer(Person):
 
     def __repr__(self):
         strDev = (
-            f"Dev (id: {self.id}, name: {self.name}, "
+            f"Dev(id: {self.id}, name: {self.name}, "
             +f"age: {self.age}, salary: {self.salary}, language: {self.language})"
         )
         return strDev
